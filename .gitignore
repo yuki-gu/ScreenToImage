@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.pdb
+
+# User / runtime settings
+setting.xml
+**/setting.xml
+
+# Logs / temporary files
+*.log
+*.tmp
+*.cache
